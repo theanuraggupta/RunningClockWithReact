@@ -1,0 +1,13 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.running-clock {
+  font-size: 3rem;
+  font-weight: bold;
+  text-align: center;
+  color: black;
+}
